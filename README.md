@@ -1,7 +1,10 @@
 # @soorajcode/tiny
 
-[![npm (scoped)](https://img.shields.io/npm/v/@soorajcode/tiny.svg)](https://www.npmjs.com/package/@bamblehorse/tiny)
-[![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/@soorajcode/tiny.svg)](https://www.npmjs.com/package/@bamblehorse/tiny)
+[![npm (scoped)](https://img.shields.io/npm/v/@soorajcode/tiny.svg)](https://www.npmjs.com/package/@soorajcode/tiny)
+
+[![Twitter](https://img.shields.io/twitter/url/https/github.com/soorajvinodan/tinymodule.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fsoorajvinodan%2Ftinymodule)
+
+(https://www.npmjs.com/package/@soorajcode/tiny)
 
 Removes all spaces from a string.
 
